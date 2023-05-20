@@ -9,6 +9,9 @@ import UIKit
 
 class FirstViewController: UIViewController {
  ///komentarebii
+    ///
+    ///axali komentariiiii
+    ///
     override func viewDidLoad() {
         super.viewDidLoad()
     }
